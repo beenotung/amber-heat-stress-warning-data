@@ -2,6 +2,8 @@
 
 此自由開源軟件旨在從新聞發布網站自動收集「黃色工作暑熱警告」的信息，包括日期、生效時間和結束時間。透過自動化過程，軟件可協助用戶及時了解工作環境中的熱壓力風險，提高安全性。
 
+![Scatter plot showing the daily duration of amber heat stress warnings over time. The x-axis represents dates from January 2023 to August 2024, and the y-axis represents duration in hours. Two clusters of green dots are visible: one around mid-2023 and another around mid-2024, indicating periods with more frequent warnings.](./screenshot.webp 'Daily Duration of Amber Heat Stress Warnings with Current Date Marked (Jan 2023 - Aug 2025)')
+
 ## 功能特色
 
 - 自動抓取和更新勞工處的黃色工作暑熱警告
